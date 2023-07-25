@@ -1,0 +1,8 @@
+¿COMO HACEMOS PARA PODERLO EN MARCHA?
+1)	Abrimos el proyecto SestaoNow en Visual Studio Code donde aparecerán 2 carpetas. BDSestaoNow (Carpeta del Back) y Front-SestaoNow (Carpeta del Front).
+2)	Aquí mismo podemos abrir 2 terminales, la primera para el back ( asegurémonos que estemos en BDSestaoNow) donde primero haremos este comando: npm install , donde instalaremos los paquetes necesarios. Luego de esto lo ponemos en marcha con: python3 run.py o python run.py. Al hacer esto, como resultado tendremos el servidor funcionando con esta ruta: * Running on http://127.0.0.1:5000
+
+3)	El siguiente paso es abrir otra terminal, PERO SIN CERRAR LA DE ARRIBA, asegurémonos que estemos en (Front-SestaoNow) y ejecutamos el mismo comando: npm install y luego de instalar paquetes continuamos con el otro comando: npm run dev. Aquí abrimos esta dirección con nuestro navegador y si esta todo bien, se vera la web sin errores.
+
+link del video Demo:
+https://www.youtube.com/watch?v=SdVYx2X-Ec4
